@@ -1,4 +1,4 @@
-# open-contributive
+# Open-contributive
 ## Modèles et travaux avec un système contributif en open source (**DRAFT**)
 L'objectif est de proposer une convention cadre afin de permettre la construction d'un objet, la production d'un design, l'écriture d'une étude, un manuel ou des documents, qui sera à disposition soit en licence "libre" (pas de financement), soit en licence Open Source Non Commercial ([CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)) avec financements. 
 
