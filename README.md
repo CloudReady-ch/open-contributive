@@ -1,6 +1,6 @@
 # open-contributive
 ## Modèles et travaux avec un système contributif en open source (**DRAFT**)
-L'objectif est de proposer une convention cadre afin de permettre la construction d'un objet, la production d'un design, l'écriture d'une étude, un manuel ou des documents, qui sera à disposition soit en licence "libre" (pas de financement), soit en licence Open Source Non Commercial ([CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) avec financements. 
+L'objectif est de proposer une convention cadre afin de permettre la construction d'un objet, la production d'un design, l'écriture d'une étude, un manuel ou des documents, qui sera à disposition soit en licence "libre" (pas de financement), soit en licence Open Source Non Commercial ([CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)) avec financements. 
 
 ### Sans financement
 La production intellectuelle sera donc libre d'utilisation, mais cela ne veut pas dire que tout le monde pourra y contribuer n'importe comment. Même sans rémunérations, des règles et modes opératoires doivent être respectés pour une production et coopération de qualité. Rares sont les vrais altruistes et nous souhaitons souvent à minima utiliser cela pour assurer une certaine reconnaissance, que ce soit par des motivations d'ego ou pour se faire connaître à des fins marketing et de réseautage. La licence libre est donc bornée par l'utilisation d'une licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
