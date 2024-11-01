@@ -4,19 +4,22 @@ L'objectif est de proposer une convention cadre afin de permettre la constructio
 
 ### Sans financement
 La production intellectuelle sera donc libre d'utilisation, mais cela ne veut pas dire que tout le monde pourra y contribuer n'importe comment. Même sans rémunérations, des règles et modes opératoires doivent être respectés pour une production et coopération de qualité. Rares sont les vrais altruistes et nous souhaitons souvent à minima utiliser cela pour assurer une certaine reconnaissance, que ce soit par des motivations d'ego ou pour se faire connaître à des fins marketing et de réseautage. La licence libre est donc bornée par l'utilisation d'une licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+* TK
 
 ### [Avec financement](https://github.com/CloudReady-ch/open-contributive/blob/main/Open-contributive-financed-Convention(FR).md)
 Dans la modélisation à financement, le produit restera accessible en open source, mais si son usage contribue à des pratiques commerciales, alors, une convention financière est nécessaire: Par simplification, le tarif de la contribution financière est autodéterminée par l'utilisateur lui-même (participation libre), et l'acte de paiement fait office d'établissement de cette convention. Il est aussi possible de lancer un crowdfunding avant de démarrer pour s'assurer d'un engagement à financement en amont.
-* 
+* https://github.com/CloudReady-ch/open-contributive/blob/main/Open-contributive-financed-Convention(FR).md
 
-#### La trésorie
+#### La trésorerie
 Une personne ou une entité va héberger un compte en banque (épargne) dédié au projet, et signer une délégation et reconnaissance que l'argent collectée ne lui appartient pas et sera de la responsabilité du collège des auteures. En l'absence d'une personalité morale établie pour porter le projet, le collectif des auteures forment une société simple selon la loi Suisse, qui peut être adapté selon le pays principal. Il est recommandé de constituer une association effective (loi 1901 en France, article 60 et suivant CC suisse).
-* La trésorerie est exposée puibi
+* La trésorerie est exposée publiquement.
 
 ## Stakeholders
 ### Les personnes **auteures**
 Peuvent être une ou plusieurs personnes, ou personalités morales. Elles forment le collège des auteurs qui valident les contributions et finalisent le produit.
 * Elles rédigent le contenu du produit.
+* Elles décident les intégrations et l'adoption de nouvelles personnes auteures.
+* Elles évaluent la valeurs effectives des contributions (répartition en cas de financement).
 
 ### Les personnes **contributrices**
 Doivent proposer leurs services en explicitant aux auteures leur proposition de contribution, et leurs attentes en termes de rémunérations.
