@@ -11,7 +11,7 @@ Dans la modélisation à financement, le produit restera accessible en open sour
 * https://github.com/CloudReady-ch/open-contributive/blob/main/Open-contributive-financed-Convention(FR).md
 
 #### La trésorerie
-Une personne ou une entité va héberger un compte en banque (épargne) dédié au projet, et signer une délégation et reconnaissance que l'argent collectée ne lui appartient pas et sera de la responsabilité du collège des auteures. En l'absence d'une personalité morale établie pour porter le projet, le collectif des auteures forment une société simple selon la loi Suisse, qui peut être adapté selon le pays principal. Il est recommandé de constituer une association effective (loi 1901 en France, article 60 et suivant CC suisse).
+Une personne ou une entité va héberger un compte en banque (épargne) dédié au projet, et signer une délégation et reconnaissance que l'argent collectée ne lui appartient pas et sera de la responsabilité du collège des auteures. En l'absence d'une personalité morale établie pour porter le projet, le collectif des personnes auteures forment une société simple selon la loi Suisse, qui peut être adaptée selon le pays principal. Il est recommandé de constituer une association effective (loi 1901 en France, article 60 et suivant Code civil suisse).
 * La trésorerie est exposée publiquement.
 
 ## Stakeholders
