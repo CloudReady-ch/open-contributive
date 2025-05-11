@@ -47,8 +47,9 @@ Les parties s'engagent à respecter la confidentialité des informations échang
 
 **Article 5 : Durée et Résiliation**
 
-1. La présente convention entre en vigueur à compter de sa signature par les deux parties et est conclue pour une durée de [indiquer la durée].
+1. La présente convention entre en vigueur à compter de sa signature par les deux parties et est conclue pour une durée de [indiquer la durée] (ceci peut être lillimité).
 2. Elle peut être résiliée par l'une ou l'autre des parties moyennant un préavis de [indiquer la durée du préavis].
+3. Les frais et revenus éventuels destinés aux contributeurs sont traités au moins annuellement, et en cas de décès, les héritiés directs (descendants) peuvent réclamer leur part.
 
 **Article 6 : Litiges**
 
