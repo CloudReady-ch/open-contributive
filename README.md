@@ -4,7 +4,7 @@ Objectif : Proposer une convention cadre pour la construction d'un objet, la pro
 
 ### Sans financement
 * **Licence libre**: Utilisation d'une licence [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
-*** Règles et modes opératoires**: Même sans rémunération, des règles et modes opératoires doivent être respectés pour assurer une production et une coopération de qualité.
+* ** Règles et modes opératoires**: Même sans rémunération, des règles et modes opératoires doivent être respectés pour assurer une production et une coopération de qualité.
 * **Motivations**: Reconnaissance, motivations d'ego, marketing et réseautage.
 
 ### [Avec financement](https://github.com/CloudReady-ch/open-contributive/blob/main/Open-contributive-financed-Convention(FR).md)
