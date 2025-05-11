@@ -1,4 +1,4 @@
-# Convention de production intellectuelle collective en open source avec financement (**DRAFT**)
+# Convention de production intellectuelle collective en open source avec financement (**DRAFT, MODELE**)
 * Titre de la convention: à compléter (ajouter une année et une version de publication)
 ## Le projet
 Il est convenu de réaliser en mode "open contributive" la production suivante:
