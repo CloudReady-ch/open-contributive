@@ -5,12 +5,8 @@ Il est convenu de produire en mode "open contributive" le produit suivant:
 * Description de la production ou des productions concernées par une propriété intellectuelle collective.
 
 ## Contributeurs
-Les partis prenants impliqués sont les contributeurs
-
-
-
-Bien sûr, je peux t'aider à rédiger une convention de production intellectuelle sous licence Creative Commons CC-BY-NC-SA. Voici un modèle que tu peux adapter selon tes besoins :
-
+Les partis prenants impliqués sont les contributeurs. Ils peuvent être des personnes morales (il faut alors expliciter l'organisation et utiliser un email de cette organisation), des personnes physiques (il faut exposer un email public, demandez un alias à CloudReady si besoin de masquer), et même des auteurs décédés ou vivants, ayant publié des contenus réutilisés, et cités.
+* A compléter (nom, email public ou dans le domaine de l'organisation), site web de l'organisation (ou du contributeur), le téléphone est optionnel (si public uniquement).
 ---
 
 **Convention de Production Intellectuelle**
