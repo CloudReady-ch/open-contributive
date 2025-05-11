@@ -66,7 +66,7 @@ Seront ceux qui vont financer le produit, que ce soit des clients usagers du pro
 
 # Mode opératoire
 ## Préparations
-1. Cloner la convention type et la modifier pour son projet
+1. Cloner la convention type et la modifier pour son projet: ([convention avec rémunérations](https://github.com/CloudReady-ch/open-contributive/blob/main/Open-contributive-financed-Convention(FR).md))
 2. Etablir un dossier partagé qui sera accessible en lecture anonymement et en édition par le collège des auteurs (Github, Gitlab, HackMD.io, kdrive, Gdrive, OneDrive...)
 4. Etablir un processus de soumission des offres de contributions (et c'est plus pratique de faire cela via un git comme Github par exemple: "Pull request"). Notez qu'un DOC partagé avec "commentaires/suggestions" autorisées peut le faire (KSuite, HakMD, Microsoft ou Google)
 5. Compléter votre copie de la convention qui elle-même pourra évoluer et recevoir les mêmes contributions que le ou les produits concernés.
